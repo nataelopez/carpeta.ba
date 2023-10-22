@@ -1,0 +1,45 @@
+*{ 
+    font-family: font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar {
+    background-color: rgb(219, 169, 119);
+    
+}
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+
+.barra a{
+    text-decoration: none;
+    color: black;
+}
+.barra {
+   font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+  
+}
+
+img {
+    height: 600px;
+    width: 300px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(88, 87, 77, 0.156);
+
+}
+footer img{
+    width: 80px;
+    height: 80px;
+}
