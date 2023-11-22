@@ -1,1 +1,2 @@
-//hola//
+//Buenas esta es la presentacion del proyecto final del curso BAM 2.0//
+Gracias profe Mati por la buena onda de siempre en cada clase y siempre querer que ante todo sin importar cuantas veces te preguntemos, entendamos lo que estabamos haciendo.
